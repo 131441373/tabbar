@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">todo</string>
+    <string name="tab_today">今天任务</string>
+    <string name="tab_calendar">多天视图</string>
+    <string name="tab_look">看看Ta</string>
+    <string name="tab_learn">开始学习</string>
+</resources>
